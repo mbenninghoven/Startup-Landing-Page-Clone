@@ -72,3 +72,11 @@ button:hover {
 	background-color: #d9400e;
 	cursor: pointer;
 }
+
+.cases .devices {
+	width: 33.3333333%;
+	display: inline-block;
+	border: 1px solid black;
+	box-sizing: border-box;
+	height: 4em;
+}
