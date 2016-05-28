@@ -82,12 +82,33 @@ button:hover {
 .cases .devices {
 	/*width: 33.3333333%;*/
 	/*display: inline-block;*/
-	border: 1px solid black;
+	/*border: 1px solid;*/
 	box-sizing: border-box;
 	height: 4em;
 }
-
-
-
-
-
+.instagram{
+	color: #3f729b;
+}
+.facebook {
+	color: #4c66a4;
+}
+.twitter{
+	color: #55acee;
+}
+.icons > li {
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 1.25em;
+	padding: 0.625rem 0;
+	margin: 1.25rem 5px;
+	border: 1px solid #eaebec;
+	display: inline-block;
+	text-align: center;
+}
+.social {
+	text-align: center;
+	color: #838994;
+}
+.copy {
+	color: #838994;
+}
